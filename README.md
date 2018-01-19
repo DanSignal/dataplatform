@@ -14,8 +14,4 @@ npm run dev
 # build for production with minification
 npm run build
 
-## Related Project 、 关联解决方案
- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
-
- [electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin)
 
